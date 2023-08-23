@@ -163,7 +163,7 @@ class appGUI:
         mailItem.Subject = "Relatório de Operações - %s" % fdt
         mailItem.BodyFormat = 1
         mailItem.Body = "Segue em anexo"
-        mailItem.To = 'SevenWaves.OffshoreManager@subsea7.com' 
+        mailItem.To = 'Email@Email.com' 
         mailItem.Attachments.Add(os.path.join(os.getcwd(), '%s' % flnm))
         mailItem.Display()
         mailItem.Save()
