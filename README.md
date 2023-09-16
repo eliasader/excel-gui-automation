@@ -1,5 +1,5 @@
-# App-de-tabela
-
-## Uma aplicação desktop para gerar relatórios de engenharia em excel e manda-los por email...
-
-### Feita em Python utilizando a biblioteca Tkinter...
+# Excel Automation GUI/GUI de automação de Excel
+---
+### Python based GUI aplication for engineering reports
+### Aplicação GUI em Python para relatorios de engenharia 
+---
